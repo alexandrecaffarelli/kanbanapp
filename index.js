@@ -15,7 +15,6 @@ app.use(express.urlencoded({extended: true}));
 app.use(express.static('assets'));
 app.use(router);
 
-
 app.listen(PORT, () => {
   console.log(`Listening on ${PORT} ...`);
 });

@@ -132,6 +132,7 @@ const cardController = {
       res.status(500).json(error);
     }
   }
+  
 };
 
 module.exports = cardController;

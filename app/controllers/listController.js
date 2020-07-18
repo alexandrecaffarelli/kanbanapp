@@ -1,6 +1,7 @@
 const List = require('../models/list');
 
 const listController = {
+  
   // method to pull all lists from database
   getAllLists: async (req, res) => {
     try {
@@ -112,6 +113,7 @@ const listController = {
       res.status(500).send(error);
     }
   }
+
 };
 
 module.exports = listController;
