@@ -1,0 +1,4 @@
+liste(id, nom, ordre)
+carte(id, description, ordre, #liste(id))
+tag(id, nom)
+CONTIENT(#carte(id), #tag(id))
