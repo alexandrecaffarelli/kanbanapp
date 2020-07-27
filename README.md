@@ -2,8 +2,8 @@
 
 ## Getting started
 
-This is a list-making application based on [Trello](https://trello.com/).
-Please follow the link below to access the website:
+This is a list-making application based on [Trello](https://trello.com/).\
+Please follow the link below to access the website:\
 [kanbanapp](https://kanban-alcaff.herokuapp.com/)
 
 ## Tech used
@@ -14,4 +14,4 @@ Please follow the link below to access the website:
 - [Sequelize](https://sequelize.org/)
 - [Bulma](https://bulma.io/)
 
-## 🍡🍭 Have fun 🍭🍡
+### 🍡🍭 Have fun 🍭🍡
